@@ -41,7 +41,7 @@
     "Speakerman": {
         "Type": "Single",
         "Image": "rbxassetid://92906666834692",
-        "Rarity": "Common",
+        "Rarity": "Basic",
         "PlacePrice": 100,
         "Max": 8,
         "hitboxOffset": {
@@ -78,6 +78,7 @@
     }
 
 }
+
 
 
 
